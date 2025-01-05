@@ -10,7 +10,7 @@
 
 * Deve ser demonstrado o uso de Flex e Grid em partes do projeto.
 
-* Deve ser demonstrado o uso de positions fixed, stick, relatives ou absolutes.
+* Deve ser demonstrado o uso de positions fixed, stick, relatives ou absolutes. T2JyqzOqez
 
 * Utilizar variáveis no CSS para reutilizar os valores e facilitar possíveis mudanças.
 
