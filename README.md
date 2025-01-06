@@ -30,6 +30,6 @@
 
 ## Projeto exemplo Music Club
 
-<img src="assets/requisitos/desktop.png"> A4bZfjevRJ
+<img src="assets/requisitos/desktop.png">
 <img src="assets/requisitos/tablet.png">
 <img src="assets/requisitos/mobile.png">
